@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lirus123452</h1>
-<h3 align="center">A Developer i use [pycharm](https://www.jetbrains.com/fr-fr/pycharm/) .</h3>
+<h3 align="center">A Developer i use pycharm) .</h3>
 
 - 🔭 I’m currently working on [CookieSong Bot](https://discord.gg/bgSxwgyKz3)
 
