@@ -1,8 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm lirus123452</h1>
 <h3 align="center">A Developer i use pycharm .</h3>
 
-- 🔭 I’m currently working on **CookieSong Bot**
+- 🔭 I’m currently working on [CookieSong Bot](https://discord.gg/bgSxwgyKz3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
