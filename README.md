@@ -2,7 +2,9 @@
 <h3 align="center">A Developer , i use Pycharm and VisualStudioCode.</h3>
 
 - 🔭 I’m currently working on [CookieSong Bot](https://discord.gg/bgSxwgyKz3)
-
+<a href="https://top.gg/bot/1183004271466270801">
+  <img src="https://top.gg/api/widget/owner/1183004271466270801.svg">
+</a>
 
 <h3 align="left">🔗 Talk to me ?</h3>
 <p align="left">
