@@ -5,6 +5,7 @@
 </a>
 
 <img align="left" alt="lavecat stats" src="https://github-readme-stats.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
+</p>
 
 <h3 align="left">🔗 Talk to me ?</h3>
 <p align="left">
