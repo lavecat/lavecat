@@ -3,6 +3,13 @@
 <a href="https://top.gg/bot/1183004271466270801">
   <img src="https://top.gg/api/widget/owner/1183004271466270801.svg">
 </a>
+---
+
+### :fire: My Stats :
+
+<img align="left" alt="lavecat stats" src="https://github-readme-stats.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
+<br />
+
 <h3 align="left">🔗 Talk to me ?</h3>
 <p align="left">
 <a href="https://discord.gg/bgSxwgyKz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bgSxwgyKz3" height="30" width="40" /></a>
