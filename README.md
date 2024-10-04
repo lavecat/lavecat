@@ -14,5 +14,6 @@
 <h3 align="left">🚩 Project:</h3>
 <p align="left"> <a href="https://discord.gg/mPMcHmZsdM" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/1221209995832594513/1238239781859885150/CookieSongBot__Logo_CookieSong__by_lirus_12345_3.png?ex=668e52e9&is=668d0169&hm=5613a84779d3348419cd829aeb69d59250eb65b3466f01de1aa2a7415babb4ac&" alt="CookieSong" width="40" height="40"/> </a> </p> 
 
+<h3 align="left">🔥 Stats</h3>
 <img align="left" alt="lavecat stats" src="https://github-readme-stats.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
 </p>
