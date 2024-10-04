@@ -4,8 +4,6 @@
   <img src="https://top.gg/api/widget/owner/1183004271466270801.svg">
 </a>
 
-### :fire: My Stats :
-
 <img align="left" alt="lavecat stats" src="https://github-readme-stats.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
 
 <h3 align="left">🔗 Talk to me ?</h3>
