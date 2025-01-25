@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cat_Lave</h1>
 <h3 align="center">A Developer , i use Pycharm and VisualStudioCode.</h3>
-
-[![Discord Bots](https://top.gg/api/widget/owner/1183004271466270801.svg)(https://top.gg/bot/1183004271466270801)
+<a href="https://top.gg/bot/1183004271466270801">
+  <img src="https://top.gg/api/widget/owner/1183004271466270801.svg">
+</a>
 
 <h3 align="left">🔗 Talk to me ?</h3>
 <p align="left">
