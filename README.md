@@ -19,4 +19,6 @@
 <a href="https://discord.gg/mPMcHmZsdM" target="_blank"> <img src="https://cookiesong.fr/gallery_gen/d8b09a4bccb6924c11cbd5d60462471f_166x166_fit.png?ts=1743764683" alt="CookieSong" width="40" height="40"/> </a>
 <h3 align="left">🔥 Stats</h3>
 <img align="left" alt="lavecat stats" src="https://github-readme-stats.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
+
+<img align="left" alt="lavecat stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavecat&count_private=true&show_icons=true&&theme=radical">
 </p>
