@@ -16,7 +16,7 @@
 <a href="https://visualstudio.microsoft.com/fr/#vscode-section" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> </a>
 <a href="https://create.roblox.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Roblox_Studio_logo_2021_present.png" alt="robloxstudio" width="40" height="40"/> </a>
 <h2 align="left">🚩 Project:</h2>
-<a href="https://discord.gg/mPMcHmZsdM" target="_blank"> <img src="https://cookiesong.fr/gallery_gen/d8b09a4bccb6924c11cbd5d60462471f_166x166_fit.png?ts=1743764683" alt="CookieSong" width="40" height="40"/> </a>
+<a href="https://cookiesong.fr" target="_blank"> <img src="https://cookiesong.fr/assets/logo.png" alt="CookieSong" width="40" height="40"/> </a>
 <h2 align="left">🔥 Stats</h2>
 <img align="left" alt="lavecat stats" src="https://github-readme-stats-kisakays-projects.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
 
