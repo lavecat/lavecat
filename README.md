@@ -18,7 +18,7 @@
 <h2 align="left">🚩 Project:</h2>
 <a href="https://cookiesong.fr" target="_blank"> <img src="https://cookiesong.fr/assets/logo.png" alt="CookieSong" width="40" height="40"/> </a>
 <h2 align="left">🔥 Stats</h2>
-<img align="left" alt="lavecat stats" src="https://github-readme-stats-kisakays-projects.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
+<img align="left" alt="lavecat stats" src="https://github-readme-stats-lavecat.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
 
-<img align="left" alt="lavecat stats" src="https://github-readme-stats-kisakays-projects.vercel.app/api/top-langs/?username=lavecat&count_private=true&show_icons=true&&theme=radical">
+<img align="left" alt="lavecat stats" src="https://github-readme-stats-lavecat.vercel.app/api/top-langs/?username=lavecat&count_private=true&show_icons=true&&theme=radical">
 </p>
