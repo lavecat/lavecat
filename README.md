@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm lavecat</h1>
 <h3 align="center">A Developer , i use Pycharm and VisualStudioCode.</h3>
+
 <a href="https://top.gg/bot/1183004271466270801">
   <img src="https://top.gg/api/widget/owner/1183004271466270801.svg">
 </a>
@@ -18,7 +19,9 @@
 <h2 align="left">🚩 Project:</h2>
 <a href="https://cookiesong.fr" target="_blank"> <img src="https://cookiesong.fr/assets/logo.png" alt="CookieSong" width="40" height="40"/> </a>
 <h2 align="left">🔥 Stats</h2>
-<img align="left" alt="lavecat stats" src="https://github-readme-stats.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
+<img align="left" alt="lavecat stats" src="https://github-readme-stats-zeta-five-77.vercel.app/api?username=lavecat&count_private=true&show_icons=true&theme=radical">
+<img align="left" alt="lavecat stats" src="https://github-readme-stats-zeta-five-77.vercel.app/api/top-langs/?username=lavecat&count_private=true&show_icons=true&&theme=radical">
 
-<img align="left" alt="lavecat stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavecat&count_private=true&show_icons=true&&theme=radical">
-</p>
+<h2 align="left">💖 Oregairu Quotes</h2>
+<img align="left" alt="lavecat stats" src="https://animequotes.uwuify.space/api?theme=transparent&anime=My+Teen+Romantic+Comedy+SNAFU">
+
